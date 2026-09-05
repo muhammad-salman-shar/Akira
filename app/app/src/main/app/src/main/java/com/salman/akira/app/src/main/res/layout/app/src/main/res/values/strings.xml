@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Akira</string>
+    <string name="change_to_black">Change to Black</string>
+    <string name="change_to_red">Change to Red</string>
+</resources>
+
